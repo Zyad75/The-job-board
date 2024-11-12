@@ -1,0 +1,82 @@
+header {
+  background-color: #333333;
+  line-height: 60px;
+  margin: 0 auto;
+  text-align: center;
+}
+footer {
+  background-color: #dddddd;
+  line-height: 60px;
+  margin: 0 auto;
+  text-align: center;
+}
+.linksFooter {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+h1 {
+  font-size: 24px;
+  color: white;
+}
+.titleH3 {
+  font-size: 20px;
+}
+p {
+  font-size: 16px;
+}
+.jobContainerRed {
+  border: solid 5px red;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+.jobContainerGreen {
+  border: solid 5px green;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+.jobContainerYellow {
+  border: solid 5px yellow;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+.jobContainerBlue {
+  border: solid 5px Blue;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+.jobContainerSalmon {
+  border: solid 5px salmon;
+  height: 350px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+h3 {
+  font-size: 16px;
+}
+.mainBody {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  gap: 15px;
+  justify-content: center;
+}
